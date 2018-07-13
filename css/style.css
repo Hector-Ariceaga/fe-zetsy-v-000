@@ -70,6 +70,6 @@ body #featured a {
   border: solid 5px #ccc;
 }
 
-#links a:hover {
+body #links a:hover {
   color: rgb(111,127,122);
 }
