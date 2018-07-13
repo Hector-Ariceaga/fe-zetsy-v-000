@@ -74,6 +74,6 @@ header a:hover {
   border: solid 5px #ccc;
 }
 
-body #links a:hover {
+#links img:hover {
   color: rgb(111,127,122);
 }
