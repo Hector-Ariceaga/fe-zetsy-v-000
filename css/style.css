@@ -65,3 +65,7 @@ body a {
   color: #1783bb;
   text-decoration: none;
 }
+
+links img {
+  border: solid 5px #ccc;
+}
