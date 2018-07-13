@@ -24,7 +24,7 @@ body {
 
 /* colors rgb(111,127,122),rgb(152,173,166), #1783bb */
 h1{
-  margin: 0 auto 10 px;
+  margin: 0 0 5px;
   padding-bottom: 10px
   font-family: 'Baskerville', serif;
   border-bottom: 1px solid #ccc;
