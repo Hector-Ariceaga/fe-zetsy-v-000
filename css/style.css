@@ -23,7 +23,7 @@ body {
 /* Write all remaining styles here */
 
 h1{
-  margin: 0;
+  margin: 0 auto 10 px;
   font-family: 'Baskerville', serif;
   color: rgba(111,127,122,1);
 }
