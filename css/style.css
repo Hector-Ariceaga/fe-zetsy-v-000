@@ -71,7 +71,7 @@ header a:hover {
 }
 
 #links {
-  padding-bottom: 20px;
+  margin: 20px;
 }
 #links img {
   border: solid 5px #ccc;
