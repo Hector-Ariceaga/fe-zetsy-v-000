@@ -31,13 +31,14 @@ h1{
 }
 
 h2 {
-color: rgb(111,127,122);
+  font-size: 2em;
+  color: rgb(111,127,122);
 }
 
 p {
 	font-size: 1em;
   font-weight: normal;
 	line-height: 1em;
-  color: rgb(152,173,166);
+  color: #555;
   padding-bottom: 20px;
 }
