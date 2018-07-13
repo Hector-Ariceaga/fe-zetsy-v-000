@@ -60,3 +60,7 @@ header a:hover {
 #featured img{
   border: solid 5px rgb(152,173,166);
 }
+
+body a {
+  color: #1783bb;
+}
