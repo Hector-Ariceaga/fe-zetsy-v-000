@@ -22,18 +22,21 @@ body {
 
 /* Write all remaining styles here */
 
+/* colors rgb(111,127,122),rgb(152,173,166), #1783bb */
 h1{
   margin: 0 auto 10 px;
+  padding-bottom: 10px
   font-family: 'Baskerville', serif;
-  color: rgba(111,127,122,1);
+  border-bottom: 1px solid #ccc;
 }
 
 h2 {
-color: rgba(111,127,122,1);
+color: rgb(152,173,166);
 }
 
 p {
 	font-size: 1em;
 	line-height: 1em;
-  color: #ccc;
+  color: rgb(152,173,166);
+  padding-bottom: 20px;
 }
