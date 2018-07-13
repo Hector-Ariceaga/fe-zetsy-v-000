@@ -70,6 +70,6 @@ body a {
   border: solid 5px #ccc;
 }
 
-#links img:hover {
+#links a:hover {
   color: rgb(111,127,122);
 }
