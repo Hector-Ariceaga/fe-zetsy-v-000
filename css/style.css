@@ -36,6 +36,7 @@ color: rgb(152,173,166);
 
 p {
 	font-size: 1em;
+  font-weight: normal;
 	line-height: 1em;
   color: rgb(152,173,166);
   padding-bottom: 20px;
