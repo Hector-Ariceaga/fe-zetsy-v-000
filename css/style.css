@@ -80,3 +80,7 @@ header a:hover {
 #links img:hover {
   border: solid 5px rgb(111,127,122);
 }
+
+#footer {
+  align-content: right;
+}
